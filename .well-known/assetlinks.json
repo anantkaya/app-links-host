@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.anantspace_frontend",
+      "sha256_cert_fingerprints": [
+        "D8:4C:D4:04:CD:4E:9E:F9:ED:1A:2A:6F:47:95:52:5C:6E:D8:51:E7:18:E6:4B:78:05:4B:10:E9:97:AF:01:4C"
+      ]
+    }
+  }
+]
